@@ -1,4 +1,4 @@
-package CheckString;
+package checkstring;
 
 	public class CheckString {
 	
